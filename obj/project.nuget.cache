@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "GD6tJm4/kzU=",
+  "success": true,
+  "projectFilePath": "/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/MarkItDown.NET.csproj",
+  "expectedPackageFiles": [
+    "/home/ssfdre38/.nuget/packages/documentformat.openxml/3.1.0/documentformat.openxml.3.1.0.nupkg.sha512",
+    "/home/ssfdre38/.nuget/packages/documentformat.openxml.framework/3.1.0/documentformat.openxml.framework.3.1.0.nupkg.sha512",
+    "/home/ssfdre38/.nuget/packages/htmlagilitypack/1.11.71/htmlagilitypack.1.11.71.nupkg.sha512",
+    "/home/ssfdre38/.nuget/packages/system.io.packaging/8.0.0/system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.IO.Packaging' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-f32c-w444-8ppv",
+      "projectPath": "/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/MarkItDown.NET.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/MarkItDown.NET.csproj",
+      "libraryId": "System.IO.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.IO.Packaging' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "projectPath": "/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/MarkItDown.NET.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/MarkItDown.NET.csproj",
+      "libraryId": "System.IO.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

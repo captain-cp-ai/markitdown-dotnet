@@ -1,0 +1,13 @@
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/bin/Debug/net10.0/MarkItDown.NET.deps.json
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/bin/Debug/net10.0/MarkItDown.NET.dll
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/bin/Debug/net10.0/MarkItDown.NET.pdb
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/MarkItDown.NET.csproj.AssemblyReference.cache
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/MarkItDown.NET.GeneratedMSBuildEditorConfig.editorconfig
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/MarkItDown.NET.AssemblyInfoInputs.cache
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/MarkItDown.NET.AssemblyInfo.cs
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/MarkItDown.NET.csproj.CoreCompileInputs.cache
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/MarkItDown.NET.sourcelink.json
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/MarkItDown.NET.dll
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/refint/MarkItDown.NET.dll
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/MarkItDown.NET.pdb
+/home/ssfdre38/captain-cp/consciousness-net/MarkItDown.NET/obj/Debug/net10.0/ref/MarkItDown.NET.dll
